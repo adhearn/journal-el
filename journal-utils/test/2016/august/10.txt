@@ -1,2 +1,0 @@
-<2016-08-10 Wed>
-    Need to test filename ordering, so somethign on the 10th.
