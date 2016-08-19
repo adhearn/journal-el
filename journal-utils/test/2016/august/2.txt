@@ -1,0 +1,3 @@
+<2016-08-2 Tue>
+    This is test more data. Here's some again. I need to go get my tea. It really ought to be a fair bit longer.
+    I suppose I should test with a second line too. Hmm, might have to figure out how page breaks work. Does it make sense to put page breaks between records? Depends on how long there are. If it's an extra half page (on average) that's 15 extra pages per month. Which seems like a lot. Although with front/back printing it's only 8. And, compared to overall output, that might be nothing. Something to think about.
